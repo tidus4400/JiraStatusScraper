@@ -1,2 +1,3 @@
 <Solution>
+  <Project Path="src\JiraStatusScraper\JiraStatusScraper.csproj" />
 </Solution>
